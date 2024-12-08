@@ -73,4 +73,4 @@ RegisterNumber:24007403
 
 
 
-**Result:**
+**Result:** Thus the given program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
