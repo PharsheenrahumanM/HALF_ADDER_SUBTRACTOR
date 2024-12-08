@@ -58,16 +58,28 @@ Developed by: RAMASRI K
 RegisterNumber:24007403
 
 module Halfadd(a,b,sum,carry);
+
 input a,b;
+
+
 output sum,carry;
+
 assign sum=(a^b);
+
 assign carry=(a&b);
+
 endmodule
+
 module Halfsub(a,b,diifference,borrow);
+
 input a,b;
+
 output difference,borrow;
+
 assign difference=(a^b);
+
 assign borrow=(~a&b);
+
 endmodule
 
 
