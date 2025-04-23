@@ -85,17 +85,15 @@ endmodule
 
 **RTL Schematic**
 
-![Screenshot 2024-12-08 191341](https://github.com/user-attachments/assets/92a13bfb-282c-491d-8206-58fa6a16ba83)
+![Screenshot 2025-04-23 154225](https://github.com/user-attachments/assets/e287bb9a-3477-40b3-86c5-a743a82f2af5)
 
-![Screenshot 2024-12-08 191352](https://github.com/user-attachments/assets/a1a263a0-cdd6-4d9a-a315-11c7261bc78b)
 
 
 
 **Output/TIMING Waveform**
+![Screenshot 2025-04-23 153100](https://github.com/user-attachments/assets/88387ea5-ca22-40e3-93b8-feb84367a80d)
 
-![Screenshot 2024-12-08 191403](https://github.com/user-attachments/assets/dd9330d4-dd9d-4135-9c9a-77495895b8c7)
 
-![Screenshot 2024-12-08 191411](https://github.com/user-attachments/assets/dd517472-0278-4fd6-8628-c802b70f8383)
 
 
 
