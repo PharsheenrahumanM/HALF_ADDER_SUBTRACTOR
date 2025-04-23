@@ -18,7 +18,7 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+
 
 Figure -01 HALF ADDER
 
@@ -29,9 +29,10 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+
 
 Figure -02 HALF Subtractor
+
 
 **Truthtable**
 
@@ -87,12 +88,15 @@ endmodule
 
 ![Screenshot 2025-04-23 154225](https://github.com/user-attachments/assets/e287bb9a-3477-40b3-86c5-a743a82f2af5)
 
+![DE3SUBD](https://github.com/user-attachments/assets/ebe7e424-fba6-4499-889b-ccf562af7cdf)
 
 
 
 **Output/TIMING Waveform**
 ![Screenshot 2025-04-23 153100](https://github.com/user-attachments/assets/88387ea5-ca22-40e3-93b8-feb84367a80d)
 
+
+![DE3OUTSUB](https://github.com/user-attachments/assets/e3858436-d99c-4fb2-b7f1-ddf50f4f2517)
 
 
 
